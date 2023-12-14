@@ -171,3 +171,9 @@ flagged/
 # Docs
 .cache
 mkdocs-material-insiders
+.idea
+.idea/ztm-course-repo_pytorch-deep-learning.iml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/Project_Default.xml
